@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,RO: Pro FM
+http://edge126.rdsnet.ro/profm/profm/index.m3u8
+
+#EXTINF:-1,RO: Pro FM DanceFM
+http://edge126.rdsnet.ro/profm/dancefm/index.m3u8

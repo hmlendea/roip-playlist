@@ -3,5 +3,8 @@
 #EXTINF:-1,RO: Digi FM
 https://edge76.rcs-rds.ro/digifm/digifm.mp3
 
+#EXTINF:-1,RO: Europa FM
+http://astreaming.edi.ro:8000/EuropaFM_aac
+
 #EXTINF:-1,RO: Radio ZU
 https://radiozu.ro/zu.m3u
